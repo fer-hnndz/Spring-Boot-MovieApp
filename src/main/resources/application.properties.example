@@ -1,0 +1,5 @@
+spring.application.name=MoviesApp
+spring.datasource.url=
+spring.jpa.database=
+spring.datasource.username=
+spring.datasource.password=

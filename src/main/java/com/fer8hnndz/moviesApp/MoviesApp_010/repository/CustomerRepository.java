@@ -1,4 +1,4 @@
-package com.fer8hnndz.moviesApp.MoviesApp_010.model.repository;
+package com.fer8hnndz.moviesApp.MoviesApp_010.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

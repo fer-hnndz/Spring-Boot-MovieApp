@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.fer8hnndz.moviesApp.MoviesApp_010.model.Customer;
-import com.fer8hnndz.moviesApp.MoviesApp_010.model.repository.CustomerRepository;
+import com.fer8hnndz.moviesApp.MoviesApp_010.repository.CustomerRepository;
 
 @SpringBootApplication
 @RestController
